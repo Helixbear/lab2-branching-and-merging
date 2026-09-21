@@ -26,8 +26,6 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 - 1 cup unsalted butter, softened
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
-- 2 tablespoons heavy cream
-- Pinch of salt
 
 ## Decoration
 
